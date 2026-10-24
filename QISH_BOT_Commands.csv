@@ -1,15 +1,20 @@
 command,help,aliases,answer,keyboard,scenarios,need_reply,group
-/start,Open your little universe,menu,"Hi Qish sayang! ❤️ Welcome to your little universe, made with love just for you. Choose a place to explore below!","Love Center,AI Chat,Mini Games,Surprises,Our Story,Letters",,,
-/love,A little love note,"Love Center,Another Note,sayang","Qish, even on ordinary days, you make my world feel extraordinary. ❤️","Another Note,Home",,,
-/compliment,A compliment for Qish,compliment,You're my favorite kind of beautiful: the kind that makes everything around you feel warmer. 💕,"Another Note,Home",,,
-/hug,A virtual hug,hug,"Sending you the biggest virtual hug right now. Come here, sayang! 🫂",Home,,,
-/surprise,Open a surprise,"Surprises,gift","🎁 Surprise! You found a secret note: No matter how busy life gets, there will always be a little corner of my heart reserved for you.","Secret Letter,Home",,,
-/letter,Read a heartfelt letter,"Letters,Secret Letter","Dear Qish, I built this little space because I wanted you to have somewhere to smile whenever you need it. You are loved, appreciated, and so very special to me. Love, Zen. ❤️",Home,,,
-/story,Our memories together,Our Story,"📖 Our Story: Every story has chapters, and I'm grateful you're part of mine. More memories are coming soon!",Home,,,
-/games,Open mini-games,"Mini Games,play","🎮 Game time! Try /quiz, /guess, or /choose.","Love Quiz,Guessing Game,Choose One,Home",,,
-/quiz,Play a love quiz,Love Quiz,"💕 Love Quiz: What's my favorite thing about you? A) Your smile B) Your laugh C) Everything about you. Answer: C, obviously!","Mini Games,Home",,,
-/guess,Play a guessing game,Guessing Game,🔍 Guessing Game: I'm thinking of someone who makes my day better just by existing. Hint: Her name starts with Q. 😌,"Mini Games,Home",,,
-/choose,A cute choice game,Choose One,💞 Choose one: A cozy movie night 🍿 or a midnight drive 🌙? Tell me your answer next time we talk!,"Mini Games,Home",,,
-/daily,A sweet daily reminder,reminder,"🌷 Today's reminder: Drink water, eat something nice, and remember that you're loved. No pressure to be perfect today.",Home,,,
-/ai,AI companion status,"AI Chat,chat",🤖 AI Chat is coming soon! This command is a placeholder until we connect a real AI service.,Home,,,
-/home,Return to main menu,Home,"Welcome back, Qish! ❤️ Pick something fun to explore.","Love Center,AI Chat,Mini Games,Surprises,Our Story,Letters",,,
+/start,Open your little universe,menu,"Hi Qish sayang! ❤️ Welcome to your little universe, made with love just for you. Choose a place to explore below!","❤️ Love,🎮 Games
+🎁 Gift,📖 Story
+💌 Letter,🤖 AI",,,
+/love,A little love note,"❤️ Love,Another Note,sayang","Qish, even on ordinary days, you make my world feel extraordinary. ❤️","Another Note,🏠 Home",,,
+/compliment,A compliment for Qish,compliment,You're my favorite kind of beautiful: the kind that makes everything around you feel warmer. 💕,"Another Note,🏠 Home",,,
+/hug,A virtual hug,hug,"Sending you the biggest virtual hug right now. Come here, sayang! 🫂",🏠 Home,,,
+/surprise,Open a surprise,"🎁 Gift,Surprises,gift","🎁 Surprise! You found a secret note: No matter how busy life gets, there will always be a little corner of my heart reserved for you.","💌 Letter,🏠 Home",,,
+/letter,Read a heartfelt letter,"💌 Letter,Letters,Secret Letter","Dear Qish, I built this little space because I wanted you to have somewhere to smile whenever you need it. You are loved, appreciated, and so very special to me. Love, Zen. ❤️",🏠 Home,,,
+/story,Our memories together,"📖 Story,Our Story","📖 Our Story: Every story has chapters, and I'm grateful you're part of mine. More memories are coming soon!",🏠 Home,,,
+/games,Open mini-games,"🎮 Games,Mini Games,play","🎮 Game time! Try /quiz, /guess, or /choose.","Love Quiz,Guessing Game
+Choose One,🏠 Home",,,
+/quiz,Play a love quiz,Love Quiz,"💕 Love Quiz: What's my favorite thing about you? A) Your smile B) Your laugh C) Everything about you. Answer: C, obviously!",🏠 Home,,,
+/guess,Play a guessing game,Guessing Game,🔍 Guessing Game: I'm thinking of someone who makes my day better just by existing. Hint: Her name starts with Q. 😌,🏠 Home,,,
+/choose,A cute choice game,Choose One,💞 Choose one: A cozy movie night 🍿 or a midnight drive 🌙? Tell me your answer next time we talk!,🏠 Home,,,
+/daily,A sweet daily reminder,reminder,"🌷 Today's reminder: Drink water, eat something nice, and remember that you're loved. No pressure to be perfect today.",🏠 Home,,,
+/ai,AI companion status,"🤖 AI,AI Chat,chat",🤖 AI Chat is coming soon! This command is a placeholder until we connect a real AI service.,🏠 Home,,,
+/home,Return to main menu,"🏠 Home,Home","Welcome back, Qish! ❤️ Pick something fun to explore.","❤️ Love,🎮 Games
+🎁 Gift,📖 Story
+💌 Letter,🤖 AI",,,
