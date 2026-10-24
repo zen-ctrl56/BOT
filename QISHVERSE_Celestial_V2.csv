@@ -1,0 +1,209 @@
+command,help,aliases,answer,keyboard,scenarios,need_reply,group
+/start,Open QISHVERSE,menu,"✦  Q I S H V E R S E  ✦
+
+        ☾  WELCOME HOME  ☽
+
+Dear Qish,
+
+Somewhere between the stars and all the ordinary moments, I made a little universe for you.
+
+A place for soft days, silly games, love letters, and memories we haven't made yet.
+
+It's yours, sayang. ♡
+
+        ✧  Love, Zen  ✧
+
+Choose a world below ↓","💌 Letters,🌷 Garden
+📔 Diary,✨ Stars
+🎮 Arcade,🏠 Home",,,
+/home,Return to your universe,"🏠 Home,Home","☾  QISHVERSE  ·  THE ATRIUM
+━━━━━━━━━━━━━━
+
+Welcome back, my favorite person. ♡
+
+💌  THE LETTER VAULT
+Words waiting for your heart.
+
+🌷  THE MOOD GARDEN
+Every feeling deserves a flower.
+
+📔  DEAR DIARY
+Your own quiet little corner.
+
+✨  OUR CONSTELLATION
+A sky full of our moments.
+
+🎮  LITTLE ARCADE
+A little fun, just for us.
+
+━━━━━━━━━━━━━━
+✧  Where shall we go today?","💌 Letters,🌷 Garden
+📔 Diary,✨ Stars
+🎮 Arcade,🏠 Home",,,
+/diary,Visit the diary,"📔 Diary,Diary","📔  D E A R  D I A R Y
+━━━━━━━━━━━━━━
+
+Some words belong only to you.
+The happy ones. The messy ones. The ones you aren't ready to say out loud.
+
+This will be your quiet, private space. ♡
+
+✧  The diary editor arrives with the Mini App.
+🔒  Please don't send private entries to this bot.",🏠 Home,,,
+/garden,Visit the mood garden,"🌷 Garden,Garden","🌷  THE MOOD GARDEN
+━━━━━━━━━━━━━━
+
+A flower for every feeling.
+
+🌸  For your happiest days
+🌼  For the gentle ones
+🌧️  For the days that feel heavy
+🌱  For the days you're still growing
+
+Nothing in your garden has to be perfect, Qish.
+
+✧  The interactive garden will bloom in the Mini App. Until then, this little flower is yours: 🌷",🏠 Home,,,
+/letters,Open letter vault,"💌 Letters,Letters","💌  THE LETTER VAULT
+━━━━━━━━━━━━━━
+
+Four envelopes.
+Four little reasons to smile.
+
+✉️  Miss Me — for the distance
+🌙  Goodnight — for quiet evenings
+🫶  Hard Day — for difficult moments
+🎀  Just Because — no reason needed
+
+Pick the letter your heart needs today. ♡","Miss Me,Hard Day
+Goodnight,Just Because
+🏠 Home",,,
+/missme,Open miss me letter,Miss Me,"✉️  OPEN WHEN YOU MISS ME
+━━━━━━━━━━━━━━
+
+Hi, sayang.
+
+I wish I could fold the distance between us like a piece of paper and appear right next to you.
+
+Until then, imagine this as a hug that stays a little longer.
+
+You are always worth coming home to.
+
+                 ♡  Zen","💌 Letters,🏠 Home",,,
+/hardday,Open comfort letter,Hard Day,"🫶  OPEN ON A HARD DAY
+━━━━━━━━━━━━━━
+
+My Qish,
+
+You don't need to be sunshine every day. You can be tired, quiet, upset, or unsure.
+
+Please be gentle with yourself. Rest. Drink some water. Take your time.
+
+I love the person you are, not just the smile you show the world.
+
+                 ♡  Zen","💌 Letters,🏠 Home",,,
+/goodnight,Open bedtime letter,Goodnight,"🌙  OPEN BEFORE SLEEP
+━━━━━━━━━━━━━━
+
+The stars are on night duty now, love.
+
+Whatever today was like, you made it through. That's enough for tonight.
+
+Close your eyes. Let tomorrow wait.
+
+Goodnight, Qish. Sweet dreams, sayang.
+
+                 ♡  Zen","💌 Letters,🏠 Home",,,
+/justbecause,Open surprise letter,Just Because,"🎀  OPEN JUST BECAUSE
+━━━━━━━━━━━━━━
+
+No birthday. No anniversary. No special occasion.
+
+I just wanted to leave a tiny piece of love somewhere you might find it.
+
+And if you smiled reading this… mission accomplished. ♡
+
+                 ♡  Zen","💌 Letters,🏠 Home",,,
+/stars,Visit memory constellation,"✨ Stars,Stars","✨  OUR CONSTELLATION
+━━━━━━━━━━━━━━
+
+Some people count days.
+I think I'd rather count the moments that felt like magic with you.
+
+✦  Our first little star:
+    The story is still being written.
+
+Soon, this sky will become an interactive constellation in the Mini App. ♡",🏠 Home,,,
+/arcade,Open little arcade,"🎮 Arcade,Arcade","🎮  LITTLE ARCADE
+━━━━━━━━━━━━━━
+
+Welcome, player Qish! ♡
+
+💗  LOVE QUIZ
+A very suspiciously easy question.
+
+🌙  THIS OR THAT
+Choose our next little adventure.
+
+✦  SECRET STAR
+Find a surprise in the sky.
+
+Choose your game below ↓","Love Quiz,This or That
+Secret Star,🏠 Home",,,
+/quiz,Play love quiz,Love Quiz,"💗  THE LOVE QUIZ
+━━━━━━━━━━━━━━
+
+QUESTION 01
+What's my favorite thing about you?
+
+A. Your smile
+B. Your laugh
+C. Every little thing
+
+✧  ANSWER: C
+
+The quiz might be rigged. My feelings aren't. ♡","🎮 Arcade,🏠 Home",,,
+/thisorthat,Play this or that,This or That,"🌙  THIS OR THAT
+━━━━━━━━━━━━━━
+
+Our next little adventure:
+
+🍿  A cozy movie night
+             OR
+🚗  A midnight drive with music
+
+No wrong answer, as long as we're together.
+
+Tell me which you'd choose, sayang. ♡","🎮 Arcade,🏠 Home",,,
+/secretstar,Discover a secret,Secret Star,"✦  SECRET STAR DISCOVERED
+━━━━━━━━━━━━━━
+
+        Achievement unlocked:
+      ✨ MY FAVORITE HUMAN ✨
+
+Of all the stars in this imaginary sky, you're the one I keep looking for.
+
+Don't tell the other stars. ♡","🎮 Arcade,🏠 Home",,,
+/surprise,A little surprise,Surprise,"🎁  A LITTLE SURPRISE
+━━━━━━━━━━━━━━
+
+Today's delivery:
+
+♡ One imaginary forehead kiss
+♡ One extremely real compliment
+♡ Unlimited reminders that you're loved
+
+Signed, sealed, and sent with love.
+
+                 — Zen",🏠 Home,,,
+/help,QISHVERSE guide,Help,"✧  QISHVERSE GUIDE
+━━━━━━━━━━━━━━
+
+Use the buttons below to explore the five worlds.
+
+💌 Letters and 🎮 Arcade work right here in Telegram.
+
+📔 Diary, 🌷 Garden, and ✨ Stars are previews until the interactive Mini App launches.
+
+🔒 Private diary entries should never be sent to this bot.
+
+Need to get back? Tap 🏠 Home.",🏠 Home,,,
