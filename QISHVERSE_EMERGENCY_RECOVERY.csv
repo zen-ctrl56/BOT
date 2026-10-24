@@ -1,0 +1,4 @@
+command,help,aliases,answer,keyboard,scenarios,need_reply,group
+/start,Start QISHVERSE,,"QISHVERSE is online. Send /open to enter the Mini App.",,,,
+/home,Home,,"Welcome home Qish. Send /open to enter QISHVERSE.",,,,
+/open,Open QISHVERSE,,"Enter QISHVERSE: https://zen-ctrl56.github.io/BOT/qishverse/",,,,
