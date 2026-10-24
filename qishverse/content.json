@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "site": {
+    "title": "QISHVERSE",
+    "greeting": "Welcome home, Qish.",
+    "subtitle": "Your little universe is waiting for you. ✦",
+    "reminder": "Every feeling belongs here. Every little memory matters. And you are so, so loved. ♡",
+    "accent": "#ffbfdf",
+    "accent2": "#bda1f8"
+  },
+  "worlds": {
+    "diary": {
+      "title": "Dear Diary",
+      "subtitle": "A quiet place for thoughts that belong only to you.",
+      "card": "Your quiet corner"
+    },
+    "garden": {
+      "title": "Mood Garden",
+      "subtitle": "Even the cloudy days deserve a flower.",
+      "card": "Let feelings bloom"
+    },
+    "letters": {
+      "title": "Letters From Zen",
+      "subtitle": "Some words are best kept in little envelopes.",
+      "card": "Words from Zen"
+    },
+    "stars": {
+      "title": "Our Constellation",
+      "subtitle": "Every little moment deserves its own star.",
+      "card": "A sky of memories"
+    },
+    "arcade": {
+      "title": "Little Arcade",
+      "subtitle": "Tiny games, big smiles. ♡",
+      "card": "Play something sweet"
+    }
+  },
+  "letters": {
+    "Miss Me": "Hi sayang,\n\nIf I could fold the distance between us, I'd be beside you right now. Until then, let this letter be a hug that stays a little longer.\n\nLove, Zen ♡",
+    "Hard Day": "My Qish,\n\nYou don't need to be sunshine every day. Take your time, rest when you need to, and be gentle with yourself.\n\nLove, Zen ♡",
+    "Goodnight": "The stars are on night duty now, love. Whatever today was like, you made it through. Sweet dreams, Qish.\n\nLove, Zen ♡",
+    "Just Because": "No birthday. No anniversary. I just wanted to leave a tiny piece of love for you to find.\n\nLove, Zen ♡"
+  },
+  "games": [
+    {
+      "question": "What's Zen's favorite thing about Qish?",
+      "answers": [
+        "Her smile",
+        "Her laugh",
+        "Everything about her"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Choose our perfect little adventure",
+      "answers": [
+        "A midnight drive",
+        "A cozy movie night",
+        "Both, please"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "You found a secret star. Who's it for?",
+      "answers": [
+        "The moon",
+        "Qish",
+        "The clouds"
+      ],
+      "correct": 1
+    }
+  ]
+}
