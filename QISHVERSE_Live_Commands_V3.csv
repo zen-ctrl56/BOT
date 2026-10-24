@@ -1,0 +1,222 @@
+command,help,aliases,answer,keyboard,scenarios,need_reply,group
+/start,Enter QISHVERSE,menu,"✦  Q I S H V E R S E  ✦
+
+       ☾ WELCOME HOME ☽
+
+Dear Qish,
+
+I made you a little universe where memories become stars, feelings bloom into flowers, and every corner holds something made with love.
+
+🌙 QISHVERSE IS NOW LIVE!
+
+Tap the Telegram menu button beside the message box to open the interactive universe.
+
+Or explore the little worlds with the buttons below.
+
+       ♡ Always, Zen","💌 Letters,🌷 Garden
+📔 Diary,✨ Stars
+🎮 Arcade,🏠 Home",,,
+/home,QISHVERSE main menu,"🏠 Home,Home","☾ QISHVERSE · THE ATRIUM
+━━━━━━━━━━━━━━
+
+Welcome back, my favorite person. ♡
+
+💌 LETTER VAULT
+Open a note whenever you need one.
+
+🌷 MOOD GARDEN
+Plant a flower for how you feel.
+
+📔 DEAR DIARY
+A quiet corner for your thoughts.
+
+✨ OUR CONSTELLATION
+Give your favorite memories a star.
+
+🎮 LITTLE ARCADE
+Play something sweet.
+
+✦ Want the interactive experience?
+Tap the Telegram menu button to enter QISHVERSE.
+
+━━━━━━━━━━━━━━
+Where shall we go today?","💌 Letters,🌷 Garden
+📔 Diary,✨ Stars
+🎮 Arcade,🏠 Home",,,
+/diary,Private diary guide,"📔 Diary,Diary","📔 DEAR DIARY
+━━━━━━━━━━━━━━
+
+A quiet place to put your thoughts into words, sayang. ♡
+
+✦ In the Mini App you can:
+• Write and save your own pages
+• Read earlier entries
+• Delete entries whenever you want
+• Export a backup
+
+🌙 Open QISHVERSE with the Telegram menu button, then choose Dear Diary.
+
+🔒 Important: the current diary saves locally on this device without encryption. Avoid storing sensitive information until privacy protection is upgraded. Please don't send diary entries to this bot.",🏠 Home,,,
+/garden,Mood garden guide,"🌷 Garden,Garden","🌷 THE MOOD GARDEN
+━━━━━━━━━━━━━━
+
+Not every day needs to be sunny for something beautiful to grow. ♡
+
+In the Mini App, choose a feeling and plant a flower:
+
+🌹 Loved
+🌼 Happy
+🪻 Tender
+🌷 Sleepy
+🌱 A little cloudy
+
+Every check-in becomes part of your garden.
+
+🌙 Open QISHVERSE from the Telegram menu button and enter Mood Garden.",🏠 Home,,,
+/letters,Love letter vault,"💌 Letters,Letters","💌 THE LETTER VAULT
+━━━━━━━━━━━━━━
+
+Four envelopes, each carrying a little piece of my heart.
+
+✉️ Miss Me
+🫶 Hard Day
+🌙 Goodnight
+🎀 Just Because
+
+Choose one below, or open the animated letter vault inside QISHVERSE using the Telegram menu button. ♡","Miss Me,Hard Day
+Goodnight,Just Because
+🏠 Home",,,
+/missme,When you miss me,Miss Me,"✉️ OPEN WHEN YOU MISS ME
+━━━━━━━━━━━━━━
+
+Hi, sayang.
+
+I wish I could fold the distance between us like a piece of paper and appear beside you.
+
+Until then, let this letter be a hug that stays a little longer.
+
+You are always worth coming home to.
+
+                  ♡ Zen","💌 Letters,🏠 Home",,,
+/hardday,For difficult days,Hard Day,"🫶 OPEN ON A HARD DAY
+━━━━━━━━━━━━━━
+
+My Qish,
+
+You don't have to be sunshine every day. You can be tired, quiet, upset, or unsure.
+
+Please be gentle with yourself. Rest. Drink some water. Take your time.
+
+I love the person you are, not just the smile you show the world.
+
+                  ♡ Zen","💌 Letters,🏠 Home",,,
+/goodnight,Bedtime letter,Goodnight,"🌙 OPEN BEFORE SLEEP
+━━━━━━━━━━━━━━
+
+The stars are on night duty now, love.
+
+Whatever today was like, you made it through. That's enough for tonight.
+
+Close your eyes. Let tomorrow wait.
+
+Goodnight, Qish. Sweet dreams, sayang.
+
+                  ♡ Zen","💌 Letters,🏠 Home",,,
+/justbecause,A little surprise letter,Just Because,"🎀 OPEN JUST BECAUSE
+━━━━━━━━━━━━━━
+
+No birthday. No anniversary. No special occasion.
+
+I just wanted to leave a tiny piece of love somewhere you might find it.
+
+And if you smiled reading this… mission accomplished. ♡
+
+                  ♡ Zen","💌 Letters,🏠 Home",,,
+/stars,Memory constellation guide,"✨ Stars,Stars","✨ OUR CONSTELLATION
+━━━━━━━━━━━━━━
+
+Some people count days. I'd rather count all the little moments that felt like magic with you.
+
+✦ In QISHVERSE, you can:
+• Name a memory
+• Write what made it special
+• Place it among the stars
+• Tap a star to revisit it
+
+🌙 Open QISHVERSE using the Telegram menu button, then enter Our Stars.
+
+Your private memories remain on this device unless you choose to export them. ♡",🏠 Home,,,
+/arcade,Little arcade,"🎮 Arcade,Arcade","🎮 LITTLE ARCADE
+━━━━━━━━━━━━━━
+
+Welcome, player Qish! ♡
+
+💗 LOVE QUIZ
+A suspiciously easy question.
+
+🌙 THIS OR THAT
+Choose our little adventure.
+
+✦ SECRET STAR
+Find a tiny surprise.
+
+Play here with the buttons below, or open QISHVERSE from the Telegram menu button for the interactive games.","Love Quiz,This or That
+Secret Star,🏠 Home",,,
+/quiz,Play love quiz,Love Quiz,"💗 THE LOVE QUIZ
+━━━━━━━━━━━━━━
+
+QUESTION 01
+What's my favorite thing about you?
+
+A. Your smile
+B. Your laugh
+C. Every little thing
+
+✧ ANSWER: C
+
+The quiz might be rigged. My feelings aren't. ♡","🎮 Arcade,🏠 Home",,,
+/thisorthat,Play this or that,This or That,"🌙 THIS OR THAT
+━━━━━━━━━━━━━━
+
+Our next little adventure:
+
+🍿 A cozy movie night
+          OR
+🚗 A midnight drive with music
+
+No wrong answer, as long as we're together.
+
+Tell me which you'd choose, sayang. ♡","🎮 Arcade,🏠 Home",,,
+/secretstar,Find a secret star,Secret Star,"✦ SECRET STAR DISCOVERED
+━━━━━━━━━━━━━━
+
+      Achievement unlocked:
+      ✨ MY FAVORITE HUMAN ✨
+
+Of all the stars in this imaginary sky, you're the one I keep looking for.
+
+Don't tell the other stars. ♡","🎮 Arcade,🏠 Home",,,
+/surprise,A little surprise,Surprise,"🎁 A LITTLE SURPRISE
+━━━━━━━━━━━━━━
+
+Today's delivery:
+
+♡ One imaginary forehead kiss
+♡ One extremely real compliment
+♡ Unlimited reminders that you're loved
+
+Signed, sealed, and sent with love.
+
+                  — Zen",🏠 Home,,,
+/help,How to use QISHVERSE,Help,"✧ QISHVERSE GUIDE
+━━━━━━━━━━━━━━
+
+💌 Letters and 🎮 Arcade work right here in Telegram.
+
+🌷 Garden, 📔 Diary, and ✨ Stars are interactive inside the QISHVERSE Mini App.
+
+🌙 To enter the Mini App, tap the Telegram menu button near the message box.
+
+🔒 Private entries are currently saved in local browser storage without encryption. Back up your data in Mini App Settings, and don't send private entries to this bot.
+
+Tap 🏠 Home to return to the main menu.",🏠 Home,,,
