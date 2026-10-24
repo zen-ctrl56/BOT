@@ -58,7 +58,7 @@ A quiet place to put your thoughts into words, sayang. ♡
 
 🌙 Press 🌙 Enter QISHVERSE, then choose Dear Diary.
 
-🔒 Important: the current diary saves locally on this device without encryption. Avoid storing sensitive information until privacy protection is upgraded. Please don't send diary entries to this bot.",🌙 Enter QISHVERSE,🏠 Home,,,
+🔒 Important: the current diary saves locally on this device without encryption. Avoid storing sensitive information until privacy protection is upgraded. Please don't send diary entries to this bot.","🌙 Enter QISHVERSE,🏠 Home",,,
 /garden,Mood garden guide,"🌷 Garden,Garden","🌷 THE MOOD GARDEN
 ━━━━━━━━━━━━━━
 
@@ -74,7 +74,7 @@ In the Mini App, choose a feeling and plant a flower:
 
 Every check-in becomes part of your garden.
 
-🌙 Press 🌙 Enter QISHVERSE and enter Mood Garden.",🌙 Enter QISHVERSE,🏠 Home,,,
+🌙 Press 🌙 Enter QISHVERSE and enter Mood Garden.","🌙 Enter QISHVERSE,🏠 Home",,,
 /letters,Love letter vault,"💌 Letters,Letters","💌 THE LETTER VAULT
 ━━━━━━━━━━━━━━
 
@@ -87,7 +87,7 @@ Four envelopes, each carrying a little piece of my heart.
 
 Choose one below, or open the animated letter vault inside QISHVERSE using 🌙 Enter QISHVERSE. ♡","Miss Me,Hard Day
 Goodnight,Just Because
-🏠 Home",,,
+🌙 Enter QISHVERSE,🏠 Home",,,
 /missme,When you miss me,Miss Me,"✉️ OPEN WHEN YOU MISS ME
 ━━━━━━━━━━━━━━
 
@@ -151,7 +151,7 @@ Some people count days. I'd rather count all the little moments that felt like m
 
 🌙 Open QISHVERSE using 🌙 Enter QISHVERSE, then enter Our Stars.
 
-Your private memories remain on this device unless you choose to export them. ♡",🌙 Enter QISHVERSE,🏠 Home,,,
+Your private memories remain on this device unless you choose to export them. ♡","🌙 Enter QISHVERSE,🏠 Home",,,
 /arcade,Little arcade,"🎮 Arcade,Arcade","🎮 LITTLE ARCADE
 ━━━━━━━━━━━━━━
 
@@ -167,7 +167,8 @@ Choose our little adventure.
 Find a tiny surprise.
 
 Play here with the buttons below, or press 🌙 Enter QISHVERSE for the interactive games.","Love Quiz,This or That
-Secret Star,🏠 Home",,,
+Secret Star,🌙 Enter QISHVERSE
+🏠 Home",,,
 /quiz,Play love quiz,Love Quiz,"💗 THE LOVE QUIZ
 ━━━━━━━━━━━━━━
 
@@ -216,7 +217,7 @@ Today's delivery:
 
 Signed, sealed, and sent with love.
 
-                  — Zen",🌙 Enter QISHVERSE,🏠 Home,,,
+                  — Zen","🌙 Enter QISHVERSE,🏠 Home",,,
 /help,How to use QISHVERSE,Help,"✧ QISHVERSE GUIDE
 ━━━━━━━━━━━━━━
 
@@ -224,9 +225,16 @@ Signed, sealed, and sent with love.
 
 🌷 Garden, 📔 Diary, and ✨ Stars are interactive inside the QISHVERSE Mini App.
 
-🌙 To enter the Mini App, press 🌙 Enter QISHVERSE.
+🌙 To enter the Mini App, press 🌙 Enter QISHVERSE from the keyboard.
 
 🔒 Private entries are currently saved in local browser storage without encryption. Back up your data in Mini App Settings, and don't send private entries to this bot.
 
-Tap 🏠 Home to return to the main menu.",🌙 Enter QISHVERSE,🏠 Home,,,
-/open,Show QISHVERSE link,"🌙 Enter QISHVERSE,Enter QISHVERSE,Open App","🌙 THE GATE IS OPEN\n━━━━━━━━━━━━━━\n\nTap the link below to enter your little universe, Qish. ♡\n\nhttps://zen-ctrl56.github.io/BOT/qishverse/\n\nWhen you are done, come back here anytime. ✦","🏠 Home",,,\r\n
+Tap 🏠 Home to return to the main menu.","🌙 Enter QISHVERSE,🏠 Home",,,
+/open,Show QISHVERSE link,"🌙 Enter QISHVERSE,Enter QISHVERSE,Open App","🌙 THE GATE IS OPEN
+━━━━━━━━━━━━━━
+
+Tap the link below to enter your little universe, Qish. ♡
+
+https://zen-ctrl56.github.io/BOT/qishverse/
+
+When you are done, come back here anytime. ✦",🏠 Home,,,\r\n
