@@ -1,0 +1,85 @@
+﻿command,help,aliases,answer,keyboard,scenarios,need_reply,group
+/start,Enter QISHVERSE,menu,"🌙 Welcome to QISHVERSE, Qish.
+A little universe made with love, just for you. ❤️
+
+Explore the five worlds below. The interactive Mini App is being prepared, but these little messages are already yours.","❤️ Letters,🌸 Garden
+📖 Diary,✨ Stars
+🎮 Arcade,🏠 Home",,,
+/home,Main universe,Home,"✦ QISHVERSE HOME ✦
+
+Your little universe is waiting, sayang. Choose a world to explore. 💗","❤️ Letters,🌸 Garden
+📖 Diary,✨ Stars
+🎮 Arcade,🏠 Home",,,
+/diary,Diary information,📖 Diary,"📖 DEAR DIARY
+
+A quiet space for your thoughts. 💜
+
+The private diary editor isn't live yet. When the Mini App is ready, entries will be stored on your device with backup options.
+
+Please don't send private diary entries to this bot.",🏠 Home,,,
+/garden,Mood garden preview,🌸 Garden,"🌸 MOOD GARDEN
+
+Every feeling deserves a flower. Even the difficult ones.
+
+The interactive garden is coming with the Mini App. For now, here's a little flower just for you: 🌷",🏠 Home,,,
+/letters,Open the letter vault,"❤️ Letters,💌 Letter","💌 LETTERS FROM ZEN
+
+Pick an envelope, love. Every little note here was made to bring you a smile.","Miss Me,Hard Day
+Goodnight,Just Because
+🏠 Home",,,
+/missme,Letter when she misses Zen,Miss Me,"💌 WHEN YOU MISS ME
+
+Hey sayang, even when we're apart, you're never far from my thoughts. I hope this little note feels like a hug until I can give you a real one.
+
+Love, Zen. ❤️","❤️ Letters,🏠 Home",,,
+/hardday,Comforting letter,Hard Day,"💗 FOR A HARD DAY
+
+Qish, you don't have to make every day perfect. Rest if you need to. I'm proud of the little things you do, too. Take your time, okay?
+
+Love, Zen.","❤️ Letters,🏠 Home",,,
+/goodnight,Bedtime letter,Goodnight,"🌙 GOODNIGHT, LOVE
+
+I hope tonight is gentle with you. Put down the worries you can, get some rest, and remember you're loved. Sweet dreams, Qish. ❤️","❤️ Letters,🏠 Home",,,
+/justbecause,Surprise letter,Just Because,"🎀 JUST BECAUSE
+
+There's no special occasion. I just wanted to remind you that you make the ordinary parts of my life feel special.
+
+Love, Zen. 💕","❤️ Letters,🏠 Home",,,
+/stars,Memory constellation preview,✨ Stars,"✨ OUR CONSTELLATION
+
+Every memory is a little star in our sky. One day you'll be able to tap each star and revisit our favorite moments.
+
+For now, here's our first star: ✦ To be continued, together. ❤️",🏠 Home,,,
+/arcade,Mini-game hub,🎮 Arcade,"🎮 LITTLE ARCADE
+
+Let's play! Pick a little game below.","Love Quiz,This or That
+Secret Star,🏠 Home",,,
+/quiz,Relationship quiz,Love Quiz,"💞 LOVE QUIZ
+
+What's my favorite thing about you?
+
+A) Your smile
+B) Your laugh
+C) Everything about you
+
+Answer: C. Obviously. 😌❤️","🎮 Arcade,🏠 Home",,,
+/thisorthat,Choice game,This or That,"🌙 THIS OR THAT
+
+A cozy movie night 🍿 or a midnight drive 🚗?
+
+Tell Zen your pick! 💗","🎮 Arcade,🏠 Home",,,
+/secretstar,Hidden star surprise,Secret Star,"✦ SECRET STAR FOUND ✦
+
+You discovered a tiny surprise: no matter how many stars fill the sky, you're still my favorite part of this universe. 💫","🎮 Arcade,🏠 Home",,,
+/surprise,Romantic surprise,🎁 Surprise,"🎁 A LITTLE SURPRISE
+
+If you're reading this, here's your reminder: you're cherished, appreciated, and very, very loved. ❤️","❤️ Letters,🏠 Home",,,
+/help,Explain current features,Help,"🪄 QISHVERSE GUIDE
+
+Use /home to explore the menu.
+Use /letters for love notes.
+Use /arcade for simple games.
+
+The Diary, Garden, and Constellation are previews until the Mini App is built.
+
+Private diary writing should happen in the future Mini App, not Telegram bot chat.",🏠 Home,,,
