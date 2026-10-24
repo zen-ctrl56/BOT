@@ -1,0 +1,26 @@
+command,help,aliases,answer,keyboard,scenarios,need_reply,group
+/start,Welcome,menu,"🌙 Welcome to QISHVERSE, Qish! A little universe made just for you. ❤️","❤️ Letters,🌸 Garden
+📖 Diary,✨ Stars
+🎮 Arcade,🏠 Home",,,
+/home,Main menu,"🏠 Home,Home","QISHVERSE ✦ Choose your world below, sayang. ❤️","❤️ Letters,🌸 Garden
+📖 Diary,✨ Stars
+🎮 Arcade,🏠 Home",,,
+/diary,Diary preview,"📖 Diary,Diary",📖 Dear Diary is coming to the Mini App. Please don't send private diary entries to this bot.,🏠 Home,,,
+/garden,Garden preview,"🌸 Garden,Garden",🌸 Every feeling deserves a flower. Your interactive Mood Garden is coming soon. 🌷,🏠 Home,,,
+/letters,Love letters,"❤️ Letters,Letters",💌 Letters From Zen: choose an envelope below.,"Miss Me,Hard Day
+Goodnight,Just Because
+🏠 Home",,,
+/missme,Miss me letter,Miss Me,"💌 Even when we're apart, you're never far from my thoughts. Love, Zen. ❤️","❤️ Letters,🏠 Home",,,
+/hardday,Hard day letter,Hard Day,"💗 You don't need to make every day perfect. Rest when you need to, sayang. Love, Zen.","❤️ Letters,🏠 Home",,,
+/goodnight,Goodnight letter,Goodnight,"🌙 Goodnight, Qish. Rest well and remember you're loved. ❤️","❤️ Letters,🏠 Home",,,
+/justbecause,Surprise letter,Just Because,"🎀 No special occasion. You just make ordinary days special. Love, Zen. 💕","❤️ Letters,🏠 Home",,,
+/stars,Memory stars,"✨ Stars,Stars",✨ Every memory is a star in our sky. Our interactive constellation is coming soon.,🏠 Home,,,
+/arcade,Mini games,"🎮 Arcade,Arcade",🎮 Little Arcade: choose a game below.,"Love Quiz,This or That
+Secret Star,🏠 Home",,,
+/quiz,Love quiz,Love Quiz,💞 What's my favorite thing about you? A) Smile B) Laugh C) Everything. Answer: C! ❤️,"🎮 Arcade,🏠 Home",,,
+/thisorthat,Choice game,This or That,🌙 Cozy movie night or midnight drive? Tell Zen your pick! 💗,"🎮 Arcade,🏠 Home",,,
+/secretstar,Secret surprise,Secret Star,✦ Secret star found! You're my favorite part of this universe. 💫,"🎮 Arcade,🏠 Home",,,
+/surprise,Surprise note,Surprise,"🎁 You're cherished, appreciated, and very loved. ❤️",🏠 Home,,,
+/help,Help,Help,"🪄 Use the keyboard to explore QISHVERSE. Diary, Garden and Stars are previews.","❤️ Letters,🌸 Garden
+📖 Diary,✨ Stars
+🎮 Arcade,🏠 Home",,,
