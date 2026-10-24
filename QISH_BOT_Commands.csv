@@ -1,0 +1,15 @@
+command,answer,aliases,help,keyboard
+/start,"Hi Qish sayang! ❤️ Welcome to your little universe, made with love just for you. Choose a place to explore below!",menu,Open your little universe,"Love Center,AI Chat,Mini Games,Surprises,Our Story,Letters"
+/love,"Qish, even on ordinary days, you make my world feel extraordinary. ❤️",sayang,A little love note,"Another Note,Home"
+/compliment,You're my favorite kind of beautiful: the kind that makes everything around you feel warmer. 💕,,A compliment for Qish,"Another Note,Home"
+/hug,"Sending you the biggest virtual hug right now. Come here, sayang! 🫂",,A virtual hug,Home
+/surprise,"🎁 Surprise! You found a secret note: No matter how busy life gets, there will always be a little corner of my heart reserved for you.",gift,Open a surprise,"Secret Letter,Home"
+/letter,"Dear Qish, I built this little space because I wanted you to have somewhere to smile whenever you need it. You are loved, appreciated, and so very special to me. Love, Zen. ❤️",,Read a heartfelt letter,Home
+/story,"📖 Our Story: Every story has chapters, and I'm grateful you're part of mine. More memories are coming soon!",,Our memories together,Home
+/games,"🎮 Game time! Try /quiz, /guess, or /choose.",play,Open mini-games,"Love Quiz,Guessing Game,Choose One,Home"
+/quiz,"💕 Love Quiz: What's my favorite thing about you? A) Your smile B) Your laugh C) Everything about you. Answer: C, obviously!",,Play a love quiz,"Mini Games,Home"
+/guess,🔍 Guessing Game: I'm thinking of someone who makes my day better just by existing. Hint: Her name starts with Q. 😌,,Play a guessing game,"Mini Games,Home"
+/choose,💞 Choose one: A cozy movie night 🍿 or a midnight drive 🌙? Tell me your answer next time we talk!,,A cute choice game,"Mini Games,Home"
+/daily,"🌷 Today's reminder: Drink water, eat something nice, and remember that you're loved. No pressure to be perfect today.",reminder,A sweet daily reminder,Home
+/ai,🤖 AI Chat is coming soon! This command is a placeholder until we connect a real AI service.,chat,AI companion status,Home
+/home,"Welcome back, Qish! ❤️ Pick something fun to explore.",menu,Return to main menu,"Love Center,AI Chat,Mini Games,Surprises,Our Story,Letters"
